@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: 'React Weather App',
-    description: "Using React, Redux, Bootstrap & Firebase developed a weather app using Open Weather API. A user can search the current weather conditions of a place worldwide",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'React Hooks'],
+    title: 'Portfolio',
+    description: "This is a Personal Portfolio made for showcasing my skills and experience. I have used NextJS and React with Styled Components",
+      image: '/images/3.jpg',
+      tags: ['React', 'NextJS', 'Styled Components'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 0,
+    id: 2,
   },
   {
     title: 'Netflix Clone',
@@ -18,14 +18,14 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Portfolio',
-    description: "This is a Personal Portfolio made for showcasing my skills and experience. I have used NextJS and React with Styled Components",
-      image: '/images/3.jpg',
-      tags: ['React', 'NextJS', 'Styled Components'],
+    title: 'React Weather App',
+    description: "Using React, Redux, Bootstrap & Firebase developed a weather app using Open Weather API. A user can search the current weather conditions of a place worldwide",
+      image: '/images/1.png',
+      tags: ['Mongo', 'Express', 'React', 'React Hooks'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 2,
-  },
+    id: 0,
+  }
 ];
 
 export const TimeLineData = [
