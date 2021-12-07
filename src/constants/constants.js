@@ -6,7 +6,7 @@ export const projects = [
       tags: ['React', 'NextJS', 'Styled Components'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 2,
+    id: 0,
   },
   {
     title: 'Netflix Clone',
@@ -24,7 +24,16 @@ export const projects = [
       tags: ['Mongo', 'Express', 'React', 'React Hooks'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 0,
+    id: 2,
+  },
+  {
+    title: 'Crypto Dashboard',
+    description: "Using React, Redux, AntDesign  developed a crypto dashboard which gives information about the latest crypto currency using the coinbase api",
+      image: '/images/1.png',
+      tags: ['React-', 'Redux', 'ANT Design' , 'Redux-Toolkit'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 3,
   }
 ];
 
@@ -33,5 +42,5 @@ export const TimeLineData = [
   { year: 2018, text: 'Promoted to ReactJS Developer within a span of year.', },
   { year: 2019, text: 'For Career growth joined Neetable Technologies Bangalore as a Software Engineer in Sept 2019 ', },
   { year: 2020, text: 'Started working as a Senior Software Engineer in VNC Digital Services Bangalore in Nov 2020.', },
-  { year: 2021, text: 'Switched to Fulltime Freelancing in June 2021', },
+  { year: 2021, text: 'Switched to Doxa Holdings (Singapore) as a Senior Software Engineer in Dec 2021', },
 ];
