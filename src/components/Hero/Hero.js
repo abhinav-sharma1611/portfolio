@@ -16,7 +16,7 @@ const Hero = (props) => (
           I'm ABHINAV SHARMA
         </SectionTitle>
         <SectionText>
-          A passionate Web Developer (ReactJS)  having 3.10yrs experience of building Web applications with JavaScript / Reactjs  / Bootstrap / GraphQL / Redux / HTML / CSS / NextJS and some other cool libraries and frameworks.
+          A passionate Web Developer (ReactJS)  having 4.10yrs experience of building Web applications with JavaScript / Reactjs  / Bootstrap / GraphQL / Redux / HTML / CSS / NextJS and some other cool libraries and frameworks.
         </SectionText>
         <a download href="/pdf/Abhinav-ReactJS-Resume-3.10.pdf" target="_blank"><Button><SocialIcons >
           <AiOutlineCloudDownload size="4rem" />
