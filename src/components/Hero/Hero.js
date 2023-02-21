@@ -18,7 +18,7 @@ const Hero = (props) => (
         <SectionText>
           A passionate Frontend Engineer (ReactJS & JavaScript)  having 5 yrs experience of building Web applications with JavaScript / React-js  / Bootstrap / GraphQL / Redux / HTML / CSS / NextJS and some other cool libraries and frameworks.
         </SectionText>
-        <a download href="/pdf/Abhinav-ReactJS-Resume-3.10.pdf" target="_blank"><Button><SocialIcons >
+        <a download href="/pdf/resume-abhinav5yr.pdf" target="_blank"><Button><SocialIcons >
           <AiOutlineCloudDownload size="4rem" />
         </SocialIcons>CV
         </Button></a>
